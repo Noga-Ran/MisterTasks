@@ -1,0 +1,10 @@
+.flex {
+    display: flex;
+}
+
+.btn {
+    background-image: linear-gradient(to bottom right, $cta-cyan, $cta-blue);
+    padding: 22px 100px;
+    border-radius: 50px;
+    cursor: pointer;
+}
